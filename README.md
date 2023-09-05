@@ -1,0 +1,2 @@
+# CanPinProjectToSpecificVersion
+test run repository
